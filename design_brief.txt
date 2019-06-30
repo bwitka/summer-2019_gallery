@@ -1,0 +1,78 @@
+Beau Witka
+Project 4
+MEDA Web Design
+Summer 2019
+
+
+
+WEBSITE COLOR SCHEME:
+=====================
+
+(Note: same idea as my portfolio website).
+
+My plan is to keep my website as simple and minimalist as possible, including the color scheme. All text (headings, body text, etc.) will be black or dark grey. The website background image will be a simple black and white image. All images in photo galleries will be in color. Some initial ideas I have, using hexadecimal color codes, are:
+
+- text: #000
+
+I have chosen a simple color scheme because I want the images to stand out and don't want my website to look/feel too busy. 
+
+
+WEBSITE PAGE CONTENT:
+=====================
+
+
+HOME PAGE:
+----------
+Header will include a simple title such as: "Three Cities", "Beau's Gallery Website", "NYC, Paris, and Tokyo", "Urban Photo Gallery", or "Three Cities in Photos."
+
+Center of page will include: a simple three image photo gallery - lined up side by side. There will be one photo for each of the three adjoining webpages (New York, Paris, Tokyo) and each photo will include a link to the webpage (i.e. photo of Paris will link to Paris photo gallery page). Below each photo will be a simple title naming the city and possibly letting the site visitor know that they can link to the city photo gallery by clicking the image.
+
+Footer will include: copyright info.
+
+
+GALLERY PAGES:
+-----------
+Header will include: title (name of city featured in gallery).
+
+Center of page will include: 8 photo image gallery.
+
+Footer will include: copyright info.
+
+
+EXAMPLE GALLERY WEBSITE NOTES:
+================================
+
+
+Example Website #1: https://www.thannleder.de/
+-------------------
+
+- what I like: The simplicity of the website (both the layout and the fact that there are only three pages). The choice of colors (aside from the photos, most of the text content is black or grey). The scrolling home page (i.e. that you can view entire site/all pages by scrolling down in home page). I also like the feature that allows the product images to gently appear on the page as you scroll through the "SHOP" page.
+
+- what I dislike: There's not much that I don't like about this website. However, if I could change one thing, perhaps I would suggest they add a feature for site visitors who don't speak/read German. That is, a way to link to basic company info in English (?).
+
+
+Example Website #2: https://www.uvelanghe.it/it/
+-------------------
+
+- what I like: I like the images, the way in which they have organized the website by subject/page, and the simplicity of the text areas. I like the "Servizi" section of the site (as you scroll down) and how each hotel amenity opens onto the page. I like the fact that the website can be viewed in multiple languages.
+
+- what I dislike: There are a few things I don't like about this website. I think the navigation isn't very intuitive. I don't like the feature that shows up every time a page is loading (i.e. the name "UVE" and the spinning load icon). Lastly, some of the text areas seem too short (that is, they should add more text content).
+
+
+Example Website #3: https://conference.awwwards.com/new-york
+-------------------
+
+- what I like: What first caught my eye about this website were the animations. I like the moving images on the screen and the way in which the mouse cursor leaves a trail as you move about the page. I like the animations/images that greet the visitor as soon as you land on a new page. I like the colorful boxes that surround the images in the various galleries.
+
+- what I dislike: My computer's fan is going crazy - which leads me to think that perhaps this website is a little too resource heavy (beyond my level of expertise...). I would like it if they included a scroll bar on the side of the page to let visitors know how far along they are as they scroll down the page.
+
+
+THREE TOPICS FOR MY GALLERY WEBSITE: "three cities"
+====================================
+
+- New York City
+
+- Paris
+
+- Tokyo
+
