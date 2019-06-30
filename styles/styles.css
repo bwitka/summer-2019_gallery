@@ -92,6 +92,8 @@ a:hover {
 
 /***** HOME PAGE STYLES *****/
 
+/* Note: as of 6/30/19 initial layout of gallery pages looks nothing like what I want. I will have to wait until I get help or teach myself proper CSS layout/positioning. Current layout is temporary. */
+
 #home_gallery {
   width: 100%;
 }
